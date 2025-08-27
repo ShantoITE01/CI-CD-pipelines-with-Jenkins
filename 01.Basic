@@ -1,0 +1,54 @@
+
+
+# 🚀 CI/CD vs Jenkins
+
+## 🔹 What is CI/CD?
+
+**CI/CD (Continuous Integration / Continuous Delivery or Deployment)** is a **workflow or process**, not a tool.
+
+* **CI (Continuous Integration):**
+
+  Every time developers make code changes, the new code is automatically tested and merged into the main project.
+
+* **CD (Continuous Delivery/Deployment):**
+
+  After successful testing, the code is automatically deployed to the server (staging/production).
+
+👉 In short: **CI/CD = A process for automatically building, testing, and deploying software.**
+
+---
+
+## 🔹 What is Jenkins?
+
+**Jenkins** is a popular **tool** that helps implement the CI/CD process.
+
+* You create **pipelines/jobs** in Jenkins.
+
+* Whenever code is pushed to **GitHub/GitLab**, Jenkins detects the changes.
+
+* It then automatically **builds, tests, and deploys** the application.
+
+👉 In short:
+
+* **CI/CD = Concept / Workflow**
+
+* **Jenkins = Tool to implement the concept**
+
+---
+
+## ⚡ Why the distinction matters?
+
+* **CI/CD (Workflow/Idea):** Defines *how* code will be built, tested, deployed, and errors detected.
+
+* **Jenkins (Tool):** Executes that workflow in practice. 
+
+Example: Push code → Jenkins triggers build → Runs tests → Deploys app.
+
+---
+
+## ✅ Summary
+
+* **CI/CD = The idea (workflow/process)**
+
+* **Jenkins = The tool to make it happen**
+
