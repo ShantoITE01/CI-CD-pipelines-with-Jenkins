@@ -46,7 +46,7 @@ Example: Push code → Jenkins triggers build → Runs tests → Deploys app.
 
 ---
 
-## ✅ Summary
+## ✅ Summary 
 
 * **CI/CD = The idea (workflow/process)**
 
