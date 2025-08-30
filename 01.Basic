@@ -52,8 +52,7 @@ Example: Push code → Jenkins triggers build → Runs tests → Deploys app.
 
 * **Jenkins = The tool to make it happen**
 
- ![Image Alt](https://github.com/ShantoITE01/CI-CD-pipelines-with-Jenkins/blob/c94609ae41023e1cc2ebf464f9c8179ae328981b/Screenshot%202025-08-20%20141223.png)
-
+ ![Image Alt](https://github.com/ShantoITE01/CI-CD-pipelines-with-Jenkins/blob/main/Screenshot%202025-08-20%20141223.png?raw=true)
 ![Image Alt](https://github.com/ShantoITE01/CI-CD-pipelines-with-Jenkins/blob/c94609ae41023e1cc2ebf464f9c8179ae328981b/Screenshot%202025-08-30%20142429.png)
 
 ![Image Alt](https://github.com/ShantoITE01/CI-CD-pipelines-with-Jenkins/blob/c94609ae41023e1cc2ebf464f9c8179ae328981b/Screenshot%202025-08-30%20143427.png)
